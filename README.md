@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align="left">welcome</h1>
 
-<!--
-**0xSWE/0xSWE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+<div align-items="center">
+    <a href='#'><img src='https://img.shields.io/badge/Ethereum-000000?style=for-the-badge&logo=Ethereum&logoColor=white' height="20"></img></a>
+    <a href='#'><img src='https://img.shields.io/badge/Solidity-000000?style=for-the-badge&logo=solidity&logoColor=white' height="20"></img></a>
+    <a href='#'><img src='https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white' height="20"></img></a>
+    <a href='#'><img src='https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white' height="20"></img></a>
+    <a href='#'><img src='https://img.shields.io/badge/Node%20js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white' height="20"></img></a>
+    <a href='#'><img src='https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white' height="20"></img></a>
+    <a href='#'><img src='https://img.shields.io/badge/Sass-000000?style=for-the-badge&logo=sass&logoColor=white' height="20"></img></a>
+    <a href='#'><img src='https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white' height="20"></img></a>
+    <a href='#'><img src='https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white' height="20"></img></a>
+    <a href='#'><img src='https://img.shields.io/badge/Qt-000000?style=for-the-badge&logo=qt&logoColor=white' height="20"></img></a>
+</div>
+</p>
