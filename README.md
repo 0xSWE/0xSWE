@@ -1,5 +1,9 @@
-<h1 align="left">welcome</h1>
-<p align="left">!!! I don't use social media, beware of fakes<br/>email: 0xSWE@tuta.io</p>
+# welcome
+### ⚠️ I don't use social media, beware of fakes
+
+### ✉️ email: [`0xSWE@tuta.io`](mailto:0xSWE@tuta.io)
+
+### ⚙️ dotfiles: [`dotfiles`](https://github.com/0xSWE/dotfiles)
 
 <p align="left">
 <div align-items="center">
